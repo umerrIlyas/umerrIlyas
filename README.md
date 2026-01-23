@@ -11,31 +11,6 @@
 
 I'm a passionate full-stack engineer specializing in building scalable AI-powered applications and modern web solutions. I love experimenting with creative AI demos and pushing the boundaries of what's possible with modern tech stacks.
 
-### 🔭 Currently Working On
-- **AI-Powered SaaS Workflows** – Implementing LLM-driven summarization, classification, and semantic search in production systems
-- **RAG Pipelines for Enterprise SaaS** – Building vector search pipelines to ground AI in customer and product data
-
-### 🌱 Currently Learning
-- Advanced **TypeScript Patterns** & **Next.js 14** features
-- **AI Model Fine-Tuning** and **Responsible AI Deployment**
-- **GraphQL Federation & Optimization**
-
-### 👯 Open to Collaborate On
-- **Open-Source AI Tools** – Improving safety, observability, and reliability of AI integrations in SaaS systems
-- **React/Next.js Components** – Creating reusable UI libraries for high-performance web apps
-
-### 🤝 Looking for Help With
-- **Vector Databases & RAG Workflows** – Exploring optimizations and best practices for semantic search
-- **End-to-End AI Deployment** – Integrating LLM pipelines with CI/CD and cloud infrastructure
-
-### 💬 Ask Me About
-- React, Next.js, Vue, and GSAP
-- AI integrations in production SaaS
-- Building scalable full-stack systems with TypeScript & Node.js
-
-### ⚡ Fun Fact
-I think I'm funny 😄 and I love experimenting with creative AI demos in my free time
-
 ---
 
 ## 🛠️ Tech Stack
