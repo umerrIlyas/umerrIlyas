@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar Ilyas
+# 👋 Hi, I'm Umer Ilyas
 
 ### Senior Full Stack Engineer
 
@@ -119,21 +119,9 @@ I think I'm funny 😄 and I love experimenting with creative AI demos in my fre
   
 </div>
 
-<div>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerrilyas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=umerrilyas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-  
-</div>
-
 ---
 
-<div align="center">
+<div>
   
 ### 💼 Let's Connect and Build Something Amazing Together!
 
