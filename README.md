@@ -118,13 +118,3 @@ I think I'm funny 😄 and I love experimenting with creative AI demos in my fre
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umerrilyas&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170" />
   
 </div>
-
----
-
-<div>
-  
-### 💼 Let's Connect and Build Something Amazing Together!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-i-697910398)
-
-</div>
