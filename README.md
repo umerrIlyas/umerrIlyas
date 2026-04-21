@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=55&lines=Senior+Full+Stack+Engineer+%7C+AI+%26+Cloud+Enthusiast;Building+Scalable+Systems+That+Actually+Scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=55&lines=Senior+Full+Stack+Engineer+%7C+AI+%26+Cloud+Enthusiast;Building+Scalable+Systems+That+Actually+Scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -143,22 +143,6 @@ const umer = {
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umerrilyas/umerrilyas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umerrilyas/umerrilyas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/umerrilyas/umerrilyas/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-> 💡 *Set up the [snake workflow](https://github.com/Platane/snk) to auto-generate the contribution animation above.*
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🤝 Let's Build Something Remarkable
@@ -173,7 +157,7 @@ const umer = {
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+<code>"First, solve the problem. Then, write the code."</code> — John Johnson
 
 </div>
 
