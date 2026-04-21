@@ -4,14 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=55&lines=Senior+Full+Stack+Engineer+%7C+AI+%26+Cloud+Enthusiast;Building+Scalable+Systems+That+Actually+Scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-%40omar--ilyas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-i-697910398)
-&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=umerrilyas&color=1f6feb&style=flat&label=visitors)](https://github.com/umerrilyas)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/umerrilyas?style=flat&logo=github&color=1f6feb&labelColor=0d1117)](https://github.com/umerrilyas)
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
