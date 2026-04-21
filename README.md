@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=55&lines=Senior+Full+Stack+Engineer+%7C+AI+%26+Cloud+Enthusiast;Building+Scalable+Systems+That+Actually+Scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Senior+Full+Stack+Engineer+%7C+AI+%26+Cloud+Enthusiast;Building+Scalable+Systems+That+Actually+Scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
